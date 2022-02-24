@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a dissenter to his friend of the same perswasion being a perswasive to a coalition for the better establishment of the Protestant religion in England.</title>
+            <author>N. N., fl. 1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52750</idno>
+            <idno type="STC">Wing N38</idno>
+            <idno type="STC">ESTC R28701</idno>
+            <idno type="EEBO-CITATION">10741465</idno>
+            <idno type="OCLC">ocm 10741465</idno>
+            <idno type="VID">45610</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52750)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45610)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1407:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a dissenter to his friend of the same perswasion being a perswasive to a coalition for the better establishment of the Protestant religion in England.</title>
+                  <author>N. N., fl. 1689.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.]</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated at end: N.N. ; Jan. 5, 1688.</note>
+                  <note>Caption title.</note>
+                  <note>"Reprinted" ; imprinted from p. 4.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:45610:1"/>
+            <!-- PDF PAGE 37 -->
+            <head>A LETTER From a <hi>Diſſenter</hi> to his Friend of the ſame <hi>Perill a<g ref="char:EOLhyphen"/>ſion.</hi> Being a Perſwaſive to a <hi>Coalition</hi> for the better Eſtabliſhment of the <hi>Proteſtant Religion</hi> in <hi>England.</hi>
+            </head>
+            <p>
+               <hi>Licenſed and Entred according to Act of Parliament.</hi>
+            </p>
+            <p>AFter the <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>evere Sco<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which has been <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed againſt the Reform'd Religion, me thinks all true Lovers of the ſame, ſhould Unite their Pious Endeavours to procure that hap<g ref="char:EOLhyphen"/>py Calm, which at this Conjuncture we need not deſpair to enjoy.</p>
+            <p>Now among the means probably conducing to this End, You may ſafely reckon the Disbanding all the Piques and Prejudices, and the Burial of ſuch Deſigns, at have hitherto hinder'd our Tranquillity, by hindering our Coalition, or being made one Body with the Church of <hi>England.</hi> A thing which every good Proteſtant ought to promote, and to which he is not only invited by the Dangers to which our Sepa<g ref="char:EOLhyphen"/>ration doth unavoidably expoſe us, but by the great Hopes of that Chriſtian Coalition which the Juncture affords.</p>
+            <p>And unleſs Prejudice, that unlucky impediment of informing our ſelves aright, be ſtill a Vail-upon our Minds, we cannot but ſee the many happy ſteps made already towards a deſireable Coalition.</p>
+            <p>For firſt, You well know Sir, that the great pretences of our Non-Con<g ref="char:EOLhyphen"/>formity, and Separation from the Church of <hi>England,</hi> are taken out of the way. And that we have no longer any Reaſon to make uſe of that popular Topick, I mean the Popiſhneſs of her Clergy and Offi<g ref="char:EOLhyphen"/>ces:</p>
+            <pb n="2" facs="tcp:45610:2"/>
+            <!-- PDF PAGE 38 -->
+            <p>As to her Clergy, their Behaviour and Conduct in theſe Times of Difficulty and Tryal, have ſufficiently clear'd them from the imputati<g ref="char:EOLhyphen"/>on of Popiſhneſs, or being popiſhly affected. For rather than they would betray the leaſt inclination to that which is properly to be called Popery, or give the leaſt advantage to the ſame, They have choſen to venture the loſs of their Liberty and Livelihood; and what they account more dear, even the loſs of their Princes Favour. And of any have Warp'd, or Shrunk in this Tryal, they are ſuch as went out from us, and were never rightly of them. And as it would be highly unjuſt, ſo it would be altogether unkind, any more to lay Popery to their Charge, who have by ſo many Chriſtian Methods, appeared a<g ref="char:EOLhyphen"/>gainſt it. So that this old stumbling-block of Popiſhneſs in the Cler<g ref="char:EOLhyphen"/>gy of the Church of England, being taken out of the way, there is in my judgment, removed one of the greateſt hinderances of our Coa<g ref="char:EOLhyphen"/>lition.</p>
+            <p>And e're, I leave this Intimation: permit me to put you in mind, to whom we are indebted for thoſe Excellent Confutations of Popery, the four laſt years have produced. I am ſure your Pen and mine have lain Fallow, and of thoſe many of our Party, who heretofore have ſpoke and writ ſo much againſt the Whore of Babylon, not one has at this needful Seaſon, dropt a Line, or utter'd a Word in publick againſt her. But the Diſcoveries and Confutations of the Errours, Superſtitions, Idolatries, and Tyrannies of the Church of Rome, are all to be aſcrib<g ref="char:EOLhyphen"/>ed to the Genuine Sons of the Church of England. And let me add, That they have ſo well managed the Cauſe, that <hi>I</hi> wonder any thinking Perſons of the Church of Rome, can any longer tarry in her Communi<g ref="char:EOLhyphen"/>on, if they have impartially read and conſider'd what has of late been writ againſt it:</p>
+            <p>The next thing which we have long Objected againſt our Conform<g ref="char:EOLhyphen"/>ing to the Church of England, is the Popiſhneſs of her Offices: from which heavy Charge, nothing can either more compendiouſly, or more plainly acquitt her, than our comparing the Offices uſed in our Chur<g ref="char:EOLhyphen"/>ches with thoſe that are uſed in Maſs-Houſes. For ſince the Popiſh Prieſt have been ſo unwarry as to ſhew their Religion, thoſe of our party, who have yielded ſo far to Curioſity, as to go to ſee it, cannot but abundantly ſatisfy themſelves, that the Offices uſed in our Chur<g ref="char:EOLhyphen"/>ches
+<pb n="3" facs="tcp:45610:2"/>
+               <!-- PDF PAGE 38 -->are as different from thoſe uſed in the Maſs-Houſes, as a decent and Edifying Solemnity is from an inſipid and Gaudy Pageantry.</p>
+            <p>But if all this move you not to a Coalition, but that you are ſtill reſtif upon the Account of ſome Things required from you, as Terms of Communion, and which you cannot ſo well digeſt: Then let me put you in mind of the Advances the Biſhops of the Church of England have made towards an happy adjuſtment of this Objection.</p>
+            <p>The Biſhops you know, have been the only Order of Men in the Land, of whoſe Lordly ſtifneſs we have been moſt afraid. And yet <hi>I</hi> ap<g ref="char:EOLhyphen"/>peal to your own Judicious Obſervation, if ever Men appear'd better Champions for the Proteſtant Religion, or expreſſed a more Chriſtian Temper toward Proteſtant Diſſenters.</p>
+            <p>I will remember you but of three Inſtances, and to leave you to your own Lengths.</p>
+            <p>The firſt inſtance is that of the Biſhops Petition to the King, in which they promiſe a tenderneſs to Diſſenters, and a readineſs to exer<g ref="char:EOLhyphen"/>ciſe the ſame, when theſe are requiſite circumſtances to make it of mo<g ref="char:EOLhyphen"/>ment and ſignificancy to them.</p>
+            <p>Another Inſtance, of the Biſhops tender regard to Proteſtant Diſ<g ref="char:EOLhyphen"/>ſenters, is to be ſeen in the two Articles Recommended by the Arch-Biſhop of Canterbury to the Biſhops within his Metrapolitan Juriſ<g ref="char:EOLhyphen"/>diction, and by them recommended to their Dioceſan Clergy. I will ſet them down in their own Apoſtolical ſtile.</p>
+            <p>That they viz. The Clergy walk in wiſdom towards thoſe that are not of our Communion: And if there be in any of their Pariſhes any ſuch, that they neglect not frequently to Confer with them in the Spirit of Meekneſs. Seeking by all good ways and Means, to Gain and win them over to our Communion; more eſpecially that they have a very tender re<g ref="char:EOLhyphen"/>gard to our Brethren the Proteſtant Diſſenters; that upon Occaſion of<g ref="char:EOLhyphen"/>fer'd they viſit them at their Houſes, and receive them kindly at their own, and Treat them fairly wherever they meet them, diſcourſing Calm<g ref="char:EOLhyphen"/>ly and Civilly with them, perſwading them (if it may be) to a full Com<g ref="char:EOLhyphen"/>plyance with Our Church; or at leaſt, that, whereto we have already attain'd, we may all walk by the ſame Rule, and mind the ſame Thing. And in order hereunto that they take all Opportunities of aſſuring and convincing them, That the Biſhops of this Church are Really and Since<g ref="char:EOLhyphen"/>rely irreconcileable Enemies to the Errors and Superſtitions, Idolatries
+<pb facs="tcp:45610:3"/>
+               <!-- PDF PAGE 39 -->and Tyrannies of the <gap reason="illegible" resp="#OXF" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>arch of Rome, and that the very Unkind Jea<g ref="char:EOLhyphen"/>louſies which ſome have had of Us to the contrary were altogether groundleſs.</p>
+            <p>And in the laſt place that they warmly and moſt Affectionately Exhort them, to joyn with us in daily ferv<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt Prayer to the God of Peace, for an Univerſal Bleſſed Vnion of all Reformed Churches; both at home and abroad, againſt our Common Enemies, and that all they that do confeſs the Holy Name of our dear Lord, and do agree in the Truth of His Holy Word may alſo meet in one Holy Communion, and live in perfect Vnity and Godly Love.</p>
+            <p>The laſt Inſtance I ſhall mention of the Fatherly Regard the Biſhops bear towards Proteſtant Diſſenters, is to be met with in their tenth Pro<g ref="char:EOLhyphen"/>poſal to the King, where They Chriſtianly inſinuate their Deſire, that <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> due Liberty of Conſcience may be Eſtabliſhed by a fair and Free-Parlia<g ref="char:EOLhyphen"/>ment, and State fettl'd upon juſt and ſolid Foundations. Which is the ſum of all You and I can hope or wiſh for.</p>
+            <p>Theſe things I hope, Sir, you will maturely conſider and not grumble to make ſome Advances toward them, who have made ſo many towards you. I am heartily perſwaded the Biſhops are Real, and will not faul<g ref="char:EOLhyphen"/>ter in one title they have ſaid. And if we are not wanting to our ſelves, I doubt not, but that both you and I, and all Proteſtant Diſſenters, ſhall reap the Benefit of their Pious Endeavours. And that they will be better than their word when they have the happy ſeaſon for ſo doing.</p>
+            <p>And as Things now ſtand, nothing can hinder our Coalition with the Church of England, but either our own ill Temper, or the Craftineſs of out Enemies: What I now write is deſigned to Correct the former; and if I obtain, the latter is at an End. For if all the Proteſtants in this Na<g ref="char:EOLhyphen"/>tion Embrace the Advantages (the Juncture ſeems to promiſe) of uniting in one Communion, we may bid defiance to Devil and Jeſuit, to Hell and Rome.</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your Faithful Friend N. N.</signed>
+               <date>Jan. 5. 1688.</date>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Re printed in the Year, 1689.</p>
+            <pb facs="tcp:45610:3"/>
+            <!-- PDF PAGE 39 -->
+         </div>
+      </back>
+   </text>
+</TEI>
